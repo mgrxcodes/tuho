@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd /home/mgr/tuho/cron
+./gid.sh
+./all.sh >> all.log 2>&1
+

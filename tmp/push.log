@@ -1,0 +1,69 @@
+PING push1111.fmscachepush.ourdvs.com (59.109.5.232) 56(84) bytes of data.
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=1 ttl=56 time=18.8 ms
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=2 ttl=56 time=19.8 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 18.892/19.361/19.831/0.489 ms
+PING push1111.fmscachepush.ourdvs.com (121.5.190.156) 56(84) bytes of data.
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=1 ttl=56 time=17.9 ms
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=2 ttl=56 time=18.4 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 17.913/18.164/18.416/0.285 ms
+PING push1111.fmscachepush.ourdvs.com (121.5.190.156) 56(84) bytes of data.
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=1 ttl=56 time=17.7 ms
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=2 ttl=56 time=18.3 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 17.787/18.073/18.359/0.286 ms
+PING push1111.fmscachepush.ourdvs.com (59.109.5.232) 56(84) bytes of data.
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=1 ttl=56 time=18.5 ms
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=2 ttl=56 time=19.6 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 18.561/19.102/19.644/0.558 ms
+PING push1111.fmscachepush.ourdvs.com (121.5.190.156) 56(84) bytes of data.
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=1 ttl=56 time=17.7 ms
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=2 ttl=56 time=18.3 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 17.712/18.048/18.385/0.362 ms
+PING push1111.fmscachepush.ourdvs.com (59.109.5.232) 56(84) bytes of data.
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=1 ttl=56 time=18.6 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 1 received, 50% packet loss, time 1001ms
+rtt min/avg/max/mdev = 18.628/18.628/18.628/0.000 ms
+PING push1111.fmscachepush.ourdvs.com (121.5.190.156) 56(84) bytes of data.
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=1 ttl=56 time=17.8 ms
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=2 ttl=56 time=17.7 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 17.701/17.786/17.871/0.085 ms
+PING push1111.fmscachepush.ourdvs.com (59.109.5.232) 56(84) bytes of data.
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=1 ttl=56 time=18.8 ms
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=2 ttl=56 time=18.5 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 18.545/18.692/18.839/0.147 ms
+PING push1111.fmscachepush.ourdvs.com (121.5.190.156) 56(84) bytes of data.
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=1 ttl=56 time=17.8 ms
+64 bytes from 121.5.190.156 (121.5.190.156): icmp_seq=2 ttl=56 time=19.6 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 17.852/18.773/19.695/0.931 ms
+PING push1111.fmscachepush.ourdvs.com (59.109.5.232) 56(84) bytes of data.
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=1 ttl=56 time=19.5 ms
+64 bytes from 59.109.5.232 (59.109.5.232): icmp_seq=2 ttl=56 time=19.5 ms
+
+--- push1111.fmscachepush.ourdvs.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1001ms
+rtt min/avg/max/mdev = 19.511/19.522/19.534/0.140 ms
